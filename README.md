@@ -1,6 +1,6 @@
 # Hi 👋
 
-**Software developer and AI agent systems builder.** I write code across the stack and run a multi-agent AI team that helps me ship it. IT Project Management student at Vizja University, Warsaw.
+**Software developer and AI agent systems builder.** I write code across the stack and run a multi-agent AI team that helps me ship it.
 
 ## What I'm building
 
